@@ -21,8 +21,8 @@
 	- Uzumaki - A large melting pot of races and cultures throughout the large spiral with tropical and rainforest environments throughout.
 	- Mysterious area covered in magical clouds.
 - Planning
-  collapsed:: true
 	- DM Notes
+	  collapsed:: true
 		- Random shit
 		  collapsed:: true
 			- Horseshoes of a zephyr allows you to have ocean-based cavalry. You can literally be pirate mongolian horse archers. Water walk also works but since it's impermanent it works best for short mounted attacks and raids, or for a surprise bording.
@@ -161,6 +161,18 @@
 	  collapsed:: true
 		-
 	- Session 10
+	  collapsed:: true
+		- Summary
+		  collapsed:: true
+			- Willow begins to dream, where a cowboy looking character, with half his face missing, talks to him. He says he will need this soon, and hands him a gun. Willow awakens with no gun on his person.
+			- After initially defeating the vampires and hags along with the loss of many satyrs, the party sets out to permanently destroy the vampires
+			- They solve a number of puzzles and kill the vampires permanently in their coffins
+			- After traveling further north, the darkness in the cube begins to fill more
+			- Eventually they reach a canyon with a river that runs red. Upon further inspection, it turns out to be blood flowing toward a hole in the ground pulsing with energy
+			- Camealot explores the hole, and as he gets closer the pulses grow stronger and he begins to feel pain. He pushes through and enters the hole, finding himself in a writhing stomach.
+			- The acid is pooled near his feet, but begins to rise. The cowboy from Willows dream appears and offers to save him in exchange for a game. Camealot agrees and they exit the stomach
+			- Outside, the rest of the party agrees to the game as well and they all pass out
+			- They awaken by the light of the ... sun? and find themselves in a desert. Willow now has the gun on his person.
 	- Session 11
 	- Loose Ends
 	  collapsed:: true
