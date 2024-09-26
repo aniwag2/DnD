@@ -21,6 +21,7 @@
 	- Uzumaki - A large melting pot of races and cultures throughout the large spiral with tropical and rainforest environments throughout.
 	- Mysterious area covered in magical clouds.
 - Planning
+  collapsed:: true
 	- DM Notes
 	  collapsed:: true
 		- Random shit
@@ -174,6 +175,20 @@
 			- Outside, the rest of the party agrees to the game as well and they all pass out
 			- They awaken by the light of the ... sun? and find themselves in a desert. Willow now has the gun on his person.
 	- Session 11
+	  collapsed:: true
+		- Games
+			- Buckshot Roulette
+			- Duel
+		- NPCs
+			- Cowboy (Sherrif) -
+			- Saloon people
+				-
+		- Places
+			- Saloon
+			- Sheriff's
+		- DM notes (during the session)
+		- ![Wild Wild Wet - The Homebrewery.pdf](../assets/Wild_Wild_Wet_-_The_Homebrewery_1727329111428_0.pdf)
+		-
 	- Loose Ends
 	  collapsed:: true
 		- Albidaya
