@@ -188,6 +188,8 @@
 			- Sheriff's
 		- DM notes (during the session)
 		- ![Wild Wild Wet - The Homebrewery.pdf](../assets/Wild_Wild_Wet_-_The_Homebrewery_1727329111428_0.pdf)
+		- ![St-Cecilias-Blasphemous-Bordello-GURPS.pdf](../assets/St-Cecilias-Blasphemous-Bordello-GURPS_1727674493390_0.pdf)
+		- ![Dueling in D&D _ GM Binder.pdf](../assets/Dueling_in_D&D_GM_Binder_1727674590318_0.pdf)
 		-
 	- Loose Ends
 	  collapsed:: true
