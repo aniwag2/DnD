@@ -176,13 +176,19 @@
 			- They awaken by the light of the ... sun? and find themselves in a desert. Willow now has the gun on his person.
 	- Session 11
 	  collapsed:: true
-		- Games
-			- Buckshot Roulette
-			- Duel
+		- Heist
+			- Crew is assigned roles
+				- Thieves
+					- Jichael
+					- Willow
+				- Muscle
+					- Sir Came-a-lot
+				- Technicians
+					- Roi
+					- Zunitra
 		- NPCs
-			- Cowboy (Sherrif) -
-			- Saloon people
-				-
+			- Cowboy (Sherrif) - Mastermind
+			- Getaway Driver - (gets killed)
 		- Places
 			- Saloon
 			- Sheriff's
